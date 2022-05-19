@@ -2,6 +2,10 @@
 This website is fully responsive themed to video game. Based on the Bootstrap 5 framework and also the JS/bootstrap and JS/popper plugins. With some own styles and some bootstrap classes were modified. It adapts to many screen resolutions, from small mobile devices to large desktops.
 
 ![](https://github.com/Cohetero/Imagenes-PaginesWeb/blob/master/TheLegendOfZelda/TheLegendOfZelda-1.png)
+> Desktop PC
+
+![](https://github.com/Cohetero/Imagenes-PaginesWeb/blob/master/TheLegendOfZelda/TheLegendOfZelda-2.png)
+> Mobile
 
 ## Repository files
 There are three folders in the repository:
